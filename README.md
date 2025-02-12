@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 ### Me chamo Breno dos santos, como vai?!
 
 ### Lang: PT-BR
-- 🔭 Atualmente estou trabalhando na minha formação como Full Stack. Já Possuo conhecimento em Front End e Back End
-- 🌱 Estou aprendendo novas tecnologias em Back End
-- 👯 Estou procurando colaborar com trabalhos grandes e em equipe
+- 🔭 Atualmente estou trabalhando na minha formação como Full Stack. Já trabalhei como desenvolvedor Front-End e também como desenvolvedor Back-End.
+- 🌱 Estou aprendendo novas tecnologias em Back-End. Atualmente estou trabalhando com QA e aprendedo mais sobre essa profissão.
+- 👯 Estou procurando colaborar com trabalhos grandes e em equipe.
 - 🤔 Estou aceitando conselhos sobre temas de repositorios, tanto Front como Back.
 - 💬 Pergunte-me sobre minha experiencia em trabalho em equipe que irei responder com todo prazer.
 - 📫 Como chegar até mim: acessem meu linkedin: https://www.linkedin.com/in/breno-dos-santos-angelin-8a60011b0/
